@@ -12,7 +12,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <link rel="stylesheet" href="css/normalize.min.css">
-        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/main-dev.css">
 
     </head>
     <body>
@@ -39,7 +39,7 @@
                         <span>
                             <h1>Hi there!</h1>
                             <p> 
-                                I’m Josh, a Dutch student from Haarlem and I design beautiful software. 
+                                I’m Josh, a UX designer from Haarlem and I design beautiful software. 
                             </p>
                         </span>
                     </div>
@@ -52,8 +52,8 @@
                 <div class="mainContainer">
                     <h2>So... who is Josh?</h2>
                     <p>
-                        Currently I am studying <em>Communication and Multimedia Design</em> at the university of applied sciences in Amsterdam.
-                        I have experience in creating websites, apps and webapplications. You can make me happy with a good cup of coffee, movies, games and everything that involves technology and user interfaces.
+                        I have a degree in <em>Communication and Multimedia Design</em>.
+                        I have experience in creating websites, apps and webapplications. You can make me happy with a good cup of coffeeand everything that involves technology and user interfaces.
                     </p>
                 </div>
             </section>
