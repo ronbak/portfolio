@@ -12,7 +12,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <link rel="stylesheet" href="css/normalize.min.css">
-        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/main-dev.css">
 
     </head>
     <body>
@@ -39,7 +39,7 @@
                         <span>
                             <h1>Hi there!</h1>
                             <p> 
-                                I’m Josh, a Dutch student from Haarlem and I design beautiful software. 
+                                I’m Josh, a UX designer from Haarlem and I design beautiful software. 
                             </p>
                         </span>
                     </div>
@@ -52,8 +52,8 @@
                 <div class="mainContainer">
                     <h2>So... who is Josh?</h2>
                     <p>
-                        Currently I am studying <em>Communication and Multimedia Design</em> at the university of applied sciences in Amsterdam.
-                        I have experience in creating websites, apps and webapplications. You can make me happy with a good cup of coffee, movies, games and everything that involves technology and user interfaces.
+                        I am experienced in creating websites, apps and webapplications, i also have a degree in <em>Communication and Multimedia Design</em>.
+                        You can make me happy with a good cup of coffee and everything that involves technology and user interfaces.
                     </p>
                 </div>
             </section>
@@ -62,6 +62,15 @@
             <div class="contentshowcase">
              <section class="section showcase">
                 <div class="row">
+                    <a href="showcase/clockwork">
+                    <div class="box clockwork">
+                        <div class="overlay">
+                            <div class="txt">
+                                <h2>Drifter app</h2>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
                     <a href="showcase/ebn">
                     <div class="box one">
                         <div class="overlay">
@@ -71,37 +80,60 @@
                         </div>
                     </div>
                     </a>
+                     <a href="showcase/herenvest">
+                    <div class="box herenvest">
+                        <div class="overlay">
+                            <div class="txt">
+                                <h2>Herenvest</h2>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
                     <a href="showcase/ctcue">
                     <div class="box two">
                         <div class="overlay">
                             <div class="txt">
-                                <h2>CTcue: Clinical trial prototype</h2>
+                                <h2>Clinical trial prototype</h2>
                             </div>
                         </div>
                     </div>
                     </a>
-                    <a href="showcase/afvalzorg">
-                    <div class="box three">
-                        <div class="overlay">
-                            <div class="txt">
-                                <h2>Afvalzorg annual report 2013</h2>
-                            </div>
-                        </div>
-                    </div>
-                    </a>
-                    <a href="showcase/gouden-tip">
-                    <div class="box four">
-                        <div class="overlay">
-                            <div class="txt">
-                                <h2>App: De Gouden Tip</h2>
-                            </div>
-                        </div>
-                    </div>
-                    </a>
+                   
                 </div>
                 
                 
                 <div class="row">
+                     <a href="showcase/randomapp">
+                    <div class="box seven">
+                        <div class="overlay">
+                            <div class="txt">
+                                <h2>RandomApp</h2>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
+                   
+
+                    <a href="showcase/krajicek">
+                    <div class="box krajicek">
+                        <div class="overlay">
+                            <div class="txt">
+                                <h2>Krajicek.nl</h2>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
+
+                     <a href="showcase/gouden-tip">
+                    <div class="box four">
+                        <div class="overlay">
+                            <div class="txt">
+                                <h2>De Gouden Tip</h2>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
+
                     <a href="showcase/koude-pizza">
                     <div class="box five">
                         <div class="overlay">
@@ -111,21 +143,33 @@
                         </div>
                         </a>
                     </div>
+
                     
-                    <a href="showcase/soahiv-testen">
-                    <div class="box six">
+                <div class="row">
+                    <a href="showcase/afvalzorg">
+                    <div class="box duinenfonds">
                         <div class="overlay">
                             <div class="txt">
-                                <h2>Soahivtesten.nl</h2>
+                                <h2>Duinenfonds</h2>
                             </div>
                         </div>
                     </div>
                     </a>
-                    <a href="showcase/randomapp">
-                    <div class="box seven">
+                    
+                    <a href="showcase/afvalzorg">
+                    <div class="box three">
                         <div class="overlay">
                             <div class="txt">
-                                <h2>App: RandomApp</h2>
+                                <h2>Afvalzorg annual report 2013</h2>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
+                    <a href="showcase/afvalzorg">
+                    <div class="box beerbud">
+                        <div class="overlay">
+                            <div class="txt">
+                                <h2>BeerBud</h2>
                             </div>
                         </div>
                     </div>
@@ -138,14 +182,17 @@
                             </div>
                         </div>
                     </div>
+                    </a>
+                    
+
                 </div>
-                </a>
-                <a href="showcase/dezomer">
+                
                 <div class="row">
-                    <div class="box nine">
+                    <a href="showcase/fbidesign">
+                    <div class="box fbidesign">
                         <div class="overlay">
                             <div class="txt">
-                                <h2>Café De Zomer</h2>
+                                <h2>FBI Design</h2>
                             </div>
                         </div>
                     </div>
@@ -159,15 +206,6 @@
                         </div>
                     </div>
                     </a>
-                    <a href="showcase/afc">
-                    <div class="box eleven">
-                        <div class="overlay">
-                            <div class="txt">
-                                <h2>AFC.nl</h2>
-                            </div>
-                        </div>
-                    </div>
-                    </a>
                     <a href="showcase/intervolvement">
                     <div class="box twelve">
                         <div class="overlay">
@@ -176,8 +214,19 @@
                             </div>
                         </div>
                     </div>
+                    </a>
+                    <a href="showcase/soahiv-testen">
+                    <div class="box six">
+                        <div class="overlay">
+                            <div class="txt">
+                                <h2>Soahivtesten.nl</h2>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
                 </div>
-                 </a>
+                 
+                 
             </section>
 
 
