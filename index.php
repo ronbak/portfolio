@@ -52,8 +52,8 @@
                 <div class="mainContainer">
                     <h2>So... who is Josh?</h2>
                     <p>
-                        I have a degree in <em>Communication and Multimedia Design</em>.
-                        I have experience in creating websites, apps and webapplications. You can make me happy with a good cup of coffeeand everything that involves technology and user interfaces.
+                        I am experienced in creating websites, apps and webapplications, i also have a degree in <em>Communication and Multimedia Design</em>.
+                        You can make me happy with a good cup of coffee and everything that involves technology and user interfaces.
                     </p>
                 </div>
             </section>
@@ -62,6 +62,23 @@
             <div class="contentshowcase">
              <section class="section showcase">
                 <div class="row">
+                    <a href="showcase/ebn">
+                    <div class="box one">
+                        <div class="overlay">
+                            <div class="txt">
+                                <h2>Clockwork</h2>
+                            </div>
+                        </div>
+                    </div>
+                    </a><a href="showcase/ebn">
+                    <div class="box one">
+                        <div class="overlay">
+                            <div class="txt">
+                                <h2>Herenvest</h2>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
                     <a href="showcase/ebn">
                     <div class="box one">
                         <div class="overlay">
@@ -75,7 +92,71 @@
                     <div class="box two">
                         <div class="overlay">
                             <div class="txt">
-                                <h2>CTcue: Clinical trial prototype</h2>
+                                <h2>Clinical trial prototype</h2>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
+                   
+                </div>
+                
+                
+                <div class="row">
+                     <a href="showcase/randomapp">
+                    <div class="box seven">
+                        <div class="overlay">
+                            <div class="txt">
+                                <h2>RandomApp</h2>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
+                    <a href="showcase/gouden-tip">
+                    <div class="box four">
+                        <div class="overlay">
+                            <div class="txt">
+                                <h2>De Gouden Tip</h2>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
+
+                    <a href="showcase/soahiv-testen">
+                    <div class="box six">
+                        <div class="overlay">
+                            <div class="txt">
+                                <h2>Krajicek.nl</h2>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
+
+                    <a href="showcase/koude-pizza">
+                    <div class="box five">
+                        <div class="overlay">
+                            <div class="txt">
+                                <h2>Dropbox app: Koude Pizza</h2>
+                            </div>
+                        </div>
+                        </a>
+                    </div>
+
+                    
+                <div class="row">
+                    <a href="showcase/afvalzorg">
+                    <div class="box three">
+                        <div class="overlay">
+                            <div class="txt">
+                                <h2>Duinenfonds</h2>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
+                    <a href="showcase/afvalzorg">
+                    <div class="box three">
+                        <div class="overlay">
+                            <div class="txt">
+                                <h2>BeerBud</h2>
                             </div>
                         </div>
                     </div>
@@ -89,47 +170,6 @@
                         </div>
                     </div>
                     </a>
-                    <a href="showcase/gouden-tip">
-                    <div class="box four">
-                        <div class="overlay">
-                            <div class="txt">
-                                <h2>App: De Gouden Tip</h2>
-                            </div>
-                        </div>
-                    </div>
-                    </a>
-                </div>
-                
-                
-                <div class="row">
-                    <a href="showcase/koude-pizza">
-                    <div class="box five">
-                        <div class="overlay">
-                            <div class="txt">
-                                <h2>Dropbox app: Koude Pizza</h2>
-                            </div>
-                        </div>
-                        </a>
-                    </div>
-                    
-                    <a href="showcase/soahiv-testen">
-                    <div class="box six">
-                        <div class="overlay">
-                            <div class="txt">
-                                <h2>Soahivtesten.nl</h2>
-                            </div>
-                        </div>
-                    </div>
-                    </a>
-                    <a href="showcase/randomapp">
-                    <div class="box seven">
-                        <div class="overlay">
-                            <div class="txt">
-                                <h2>App: RandomApp</h2>
-                            </div>
-                        </div>
-                    </div>
-                    </a>
                     <a href="showcase/chris-pronk">
                     <div class="box eight">
                         <div class="overlay">
@@ -138,14 +178,17 @@
                             </div>
                         </div>
                     </div>
+                    </a>
+                    
+
                 </div>
-                </a>
-                <a href="showcase/dezomer">
+                
                 <div class="row">
-                    <div class="box nine">
+                    <a href="showcase/alibox">
+                    <div class="box ten">
                         <div class="overlay">
                             <div class="txt">
-                                <h2>Café De Zomer</h2>
+                                <h2>FBI Design</h2>
                             </div>
                         </div>
                     </div>
@@ -159,15 +202,6 @@
                         </div>
                     </div>
                     </a>
-                    <a href="showcase/afc">
-                    <div class="box eleven">
-                        <div class="overlay">
-                            <div class="txt">
-                                <h2>AFC.nl</h2>
-                            </div>
-                        </div>
-                    </div>
-                    </a>
                     <a href="showcase/intervolvement">
                     <div class="box twelve">
                         <div class="overlay">
@@ -176,8 +210,19 @@
                             </div>
                         </div>
                     </div>
+                    </a>
+                    <a href="showcase/soahiv-testen">
+                    <div class="box six">
+                        <div class="overlay">
+                            <div class="txt">
+                                <h2>Soahivtesten.nl</h2>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
                 </div>
-                 </a>
+                 
+                 
             </section>
 
 
