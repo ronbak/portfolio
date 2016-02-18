@@ -182,6 +182,35 @@ p {
     float: left;
     position: relative;
 }
+
+/*newly added*/
+
+.box.clockwork {
+    background: url(../img/clockwork.jpg) center/cover no-repeat;
+}
+
+.box.herenvest {
+    background: url(../img/herenvest.jpg) center/cover no-repeat;
+}
+
+.box.krajicek {
+    background: url(../img/krajicek.jpg) center/cover no-repeat;
+}
+
+.box.duinenfonds {
+    background: url(../img/duinenfonds.jpg) center/cover no-repeat;
+}
+
+.box.beerbud {
+    background: url(../img/beerbud.jpg) center/cover no-repeat;
+}
+
+.box.fbidesign {
+    background: url(../img/fbidesign.jpg) center/cover no-repeat;
+}
+
+/**/
+
 .box.one {
     background: url(../img/ebn.jpg) center/cover no-repeat;
 }

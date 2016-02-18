@@ -62,19 +62,11 @@
             <div class="contentshowcase">
              <section class="section showcase">
                 <div class="row">
-                    <a href="showcase/ebn">
-                    <div class="box one">
+                    <a href="showcase/clockwork">
+                    <div class="box clockwork">
                         <div class="overlay">
                             <div class="txt">
-                                <h2>Clockwork</h2>
-                            </div>
-                        </div>
-                    </div>
-                    </a><a href="showcase/ebn">
-                    <div class="box one">
-                        <div class="overlay">
-                            <div class="txt">
-                                <h2>Herenvest</h2>
+                                <h2>Drifter app</h2>
                             </div>
                         </div>
                     </div>
@@ -84,6 +76,15 @@
                         <div class="overlay">
                             <div class="txt">
                                 <h2>Energie Beheer Nederland</h2>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
+                     <a href="showcase/herenvest">
+                    <div class="box herenvest">
+                        <div class="overlay">
+                            <div class="txt">
+                                <h2>Herenvest</h2>
                             </div>
                         </div>
                     </div>
@@ -111,21 +112,23 @@
                         </div>
                     </div>
                     </a>
-                    <a href="showcase/gouden-tip">
-                    <div class="box four">
+                   
+
+                    <a href="showcase/krajicek">
+                    <div class="box krajicek">
                         <div class="overlay">
                             <div class="txt">
-                                <h2>De Gouden Tip</h2>
+                                <h2>Krajicek.nl</h2>
                             </div>
                         </div>
                     </div>
                     </a>
 
-                    <a href="showcase/soahiv-testen">
-                    <div class="box six">
+                     <a href="showcase/gouden-tip">
+                    <div class="box four">
                         <div class="overlay">
                             <div class="txt">
-                                <h2>Krajicek.nl</h2>
+                                <h2>De Gouden Tip</h2>
                             </div>
                         </div>
                     </div>
@@ -144,7 +147,7 @@
                     
                 <div class="row">
                     <a href="showcase/afvalzorg">
-                    <div class="box three">
+                    <div class="box duinenfonds">
                         <div class="overlay">
                             <div class="txt">
                                 <h2>Duinenfonds</h2>
@@ -152,20 +155,21 @@
                         </div>
                     </div>
                     </a>
-                    <a href="showcase/afvalzorg">
-                    <div class="box three">
-                        <div class="overlay">
-                            <div class="txt">
-                                <h2>BeerBud</h2>
-                            </div>
-                        </div>
-                    </div>
-                    </a>
+                    
                     <a href="showcase/afvalzorg">
                     <div class="box three">
                         <div class="overlay">
                             <div class="txt">
                                 <h2>Afvalzorg annual report 2013</h2>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
+                    <a href="showcase/afvalzorg">
+                    <div class="box beerbud">
+                        <div class="overlay">
+                            <div class="txt">
+                                <h2>BeerBud</h2>
                             </div>
                         </div>
                     </div>
@@ -184,8 +188,8 @@
                 </div>
                 
                 <div class="row">
-                    <a href="showcase/alibox">
-                    <div class="box ten">
+                    <a href="showcase/fbidesign">
+                    <div class="box fbidesign">
                         <div class="overlay">
                             <div class="txt">
                                 <h2>FBI Design</h2>
