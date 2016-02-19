@@ -66,7 +66,7 @@
                     <div class="box clockwork">
                         <div class="overlay">
                             <div class="txt">
-                                <h2>Drifter app</h2>
+                                <h2>Drifter Mobile App</h2>
                             </div>
                         </div>
                     </div>
@@ -93,7 +93,7 @@
                     <div class="box two">
                         <div class="overlay">
                             <div class="txt">
-                                <h2>Clinical trial prototype</h2>
+                                <h2>Clinical Trial Prototype</h2>
                             </div>
                         </div>
                     </div>
@@ -138,7 +138,7 @@
                     <div class="box five">
                         <div class="overlay">
                             <div class="txt">
-                                <h2>Dropbox app: Koude Pizza</h2>
+                                <h2>Koude Pizza Web App</h2>
                             </div>
                         </div>
                         </a>
@@ -160,7 +160,7 @@
                     <div class="box three">
                         <div class="overlay">
                             <div class="txt">
-                                <h2>Afvalzorg annual report 2013</h2>
+                                <h2>Afvalzorg</h2>
                             </div>
                         </div>
                     </div>
