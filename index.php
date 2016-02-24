@@ -146,7 +146,7 @@
 
                     
                 <div class="row">
-                    <a href="showcase/afvalzorg">
+                    <a href="showcase/duinenfonds">
                     <div class="box duinenfonds">
                         <div class="overlay">
                             <div class="txt">
@@ -165,7 +165,7 @@
                         </div>
                     </div>
                     </a>
-                    <a href="showcase/afvalzorg">
+                    <a href="showcase/beerbud">
                     <div class="box beerbud">
                         <div class="overlay">
                             <div class="txt">
