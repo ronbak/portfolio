@@ -43,10 +43,11 @@
                     <h1>Afvalzorg - annual report</h1>
                     <h2>Projectmanagement - HTML - CSS - Wordpress</h2>
                     <p>
-                        In collaboration with Intervolvement and FBI design we developed a digital version of the afvalzorg annual report 2013.
+                        In collaboration with Intervolvement and FBI design we developed a digital version of the afvalzorg annual report 2013 and 2014.
                     </p>
                     <div class="linkContain">
-                        <a href="http://jaarverslag2013.afvalzorg.nl/" class="link"> Website</a>
+                        <a href="http://jaarverslag2013.afvalzorg.nl/" class="link"> Website 2013</a>
+                        <a href="http://jaarverslag2014.afvalzorg.nl/" class="link"> Website 2014</a>
                     </div>
                     <img src="../../img/afval01.jpg" />
                     <img src="../../img/afval02.jpg" />

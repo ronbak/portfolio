@@ -44,7 +44,6 @@
                     <h2>Projectmanagement - HTML - CSS - Wordpress - Responsive</h2>
                     <p>
                         Website development for a Dutch semi-government organisation.
-                        Soon to be launched.
                     </p>
                     <small>Client: EBN - FBI Design</small>
                     <div class="linkContain">

@@ -47,7 +47,6 @@
                         I helped create a solution for including clinical trial data into a webplatform. This platform creates a search query to find the right patiënt for the right kind of trial. 
                     </p>
                     <div class="linkContain">
-                        <a href="http://www.ctcue.com" class="link">CTcue website</a>
                         <a href="http://joshuanijman.nl/prototype_2/public_html/index.html" class="link">CTcue prototype</a>
                     </div>
                     <img src="../../img/ctcue01.jpg" />
