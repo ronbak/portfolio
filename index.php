@@ -235,7 +235,7 @@
                 <div class="mainContainer">
                     <h2>Ambitious</h2>
                     <p>
-                        The past year I have been working on my entrepreneurial skills by following business bootcamps lead by ACE Venture Lab and MIT/Stanford.
+                    I have been working on my entrepreneurial skills by following business bootcamps lead by ACE Venture Lab and MIT/Stanford.
                     </p>
                 </div>
             </section>
