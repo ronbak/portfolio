@@ -52,6 +52,7 @@
                     <img src="../../img/afval01.jpg" />
                     <img src="../../img/afval02.jpg" />
                     <img src="../../img/afval03.jpg" />
+                    <img src="../../img/afval04.jpg" />
                 </div>
             </section>
 

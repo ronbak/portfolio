@@ -49,10 +49,8 @@
                         <a href="http://www.herenvest.nl" class="link">Herenvest website</a>
                        
                     </div>
-                    <img src="../../img/ctcue01.jpg" />
-                    <img src="../../img/ctcue02.jpg" />
-                    <img src="../../img/ctcue03.jpg" />
-                    <img src="../../img/ctcue04.jpg" />
+                    <img src="../../img/herenvest01.jpg" />
+                    <img src="../../img/herenvest02.jpg" />
                 </div>
             </section>
 

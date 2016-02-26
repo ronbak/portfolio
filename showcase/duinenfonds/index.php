@@ -48,10 +48,8 @@
                     <div class="linkContain">
                         <a href="http://www.duinenfonds.nl" class="link">Duinenfonds website</a>
                     </div>
-                    <img src="../../img/ctcue01.jpg" />
-                    <img src="../../img/ctcue02.jpg" />
-                    <img src="../../img/ctcue03.jpg" />
-                    <img src="../../img/ctcue04.jpg" />
+                    <img src="../../img/duinenfonds01.jpg" />
+                    <img src="../../img/duinenfonds02.jpg" />
                 </div>
             </section>
 

@@ -47,7 +47,7 @@
                         This identity is based on close contact with the client trying to figure out the main goal of the company.
                     </p>
                     <div class="linkContain">
-                        <a href="http://chrispronk-schilder.nl" class="link">Website sneak preview</a>
+                        <a href="http://chrispronk-schilder.nl" class="link">Website</a>
                     </div>    
                     <img src="../../img/chris01.jpg" />
                     <img src="../../img/chris02.jpg" />

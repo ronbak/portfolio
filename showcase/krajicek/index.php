@@ -49,10 +49,10 @@
                     <div class="linkContain">
                         <a href="http://www.krajicek.nl" class="link">Krajicek website</a>
                     </div>
-                    <img src="../../img/ctcue01.jpg" />
-                    <img src="../../img/ctcue02.jpg" />
-                    <img src="../../img/ctcue03.jpg" />
-                    <img src="../../img/ctcue04.jpg" />
+                    <img src="../../img/krajicek01.jpg" />
+                    <img src="../../img/krajicek02.jpg" />
+                    <img src="../../img/krajicek03.jpg" />
+
                 </div>
             </section>
 

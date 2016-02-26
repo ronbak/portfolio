@@ -46,12 +46,12 @@
                         I have created a new visual look for the new website of this web agency.
                     </p>
                     <div class="linkContain">
-                        <a href="http://www.fbidesign.nl" class="link">FBI Design website</a>
+                        <a href="#" class="link">Soon Online</a>
                     </div>
-                    <img src="../../img/ctcue01.jpg" />
-                    <img src="../../img/ctcue02.jpg" />
-                    <img src="../../img/ctcue03.jpg" />
-                    <img src="../../img/ctcue04.jpg" />
+                    <img src="../../img/fbi01.jpg" />
+                    <img src="../../img/fbi02.jpg" />
+                    <img src="../../img/fbi03.jpg" />
+                    <img src="../../img/fbi04.jpg" />
                 </div>
             </section>
 

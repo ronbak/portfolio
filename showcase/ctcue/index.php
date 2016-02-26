@@ -51,8 +51,6 @@
                     </div>
                     <img src="../../img/ctcue01.jpg" />
                     <img src="../../img/ctcue02.jpg" />
-                    <img src="../../img/ctcue03.jpg" />
-                    <img src="../../img/ctcue04.jpg" />
                 </div>
             </section>
 
