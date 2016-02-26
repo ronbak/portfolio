@@ -40,18 +40,17 @@
         <div>
             <section class="section who">
                 <div class="mainContainer portfolio">
-                    <h1>BeerBud</h1>
-                    <h2>Concept - Projectmanagement - UX - Entrepreneurial </h2>
+                    <h1>Herenvest</h1>
+                    <h2>Design - HTML - CSS - UX/UI </h2>
                     <p>
-                        Currently creating this app with FBI design. It is an application that is going to suggest what beers are the best for your taste palette. Based on personal preference and addition information we run an algorithm that is going to give you the best beer suggestion. Our target audience is the 'special' kind of beer taster, so no Heineken but the local kinds.
+                        In co-operation with Intervolvement i have designed and developed the website for this financial advisory company.
                     </p>
                     <div class="linkContain">
-
+                        <a href="http://www.herenvest.nl" class="link">Herenvest website</a>
+                       
                     </div>
-                    <img src="../../img/ctcue01.jpg" />
-                    <img src="../../img/ctcue02.jpg" />
-                    <img src="../../img/ctcue03.jpg" />
-                    <img src="../../img/ctcue04.jpg" />
+                    <img src="../../img/herenvest01.jpg" />
+                    <img src="../../img/herenvest02.jpg" />
                 </div>
             </section>
 

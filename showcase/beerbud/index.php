@@ -40,18 +40,15 @@
         <div>
             <section class="section who">
                 <div class="mainContainer portfolio">
-                    <h1>Duinenfonds</h1>
-                    <h2>UX and Developement </h2>
+                    <h1>BeerBud</h1>
+                    <h2>Concept - Projectmanagement - UX - Entrepreneurial </h2>
                     <p>
-                        Duinenfonds helps to create awareness about how we maintain our dunes and what needs to be done to achieve those needs.
+                        Currently creating this app with FBI design. It is an application that is going to suggest what beers are the best for your taste palette. Based on personal preference and addition information we run an algorithm that is going to give you the best beer suggestion. Our target audience is the 'special' kind of beer taster, so no Heineken but the local kinds.
                     </p>
                     <div class="linkContain">
-                        <a href="http://www.duinenfonds.nl" class="link">Duinenfonds website</a>
+
                     </div>
-                    <img src="../../img/ctcue01.jpg" />
-                    <img src="../../img/ctcue02.jpg" />
-                    <img src="../../img/ctcue03.jpg" />
-                    <img src="../../img/ctcue04.jpg" />
+                    <img src="../../img/beerbud01.jpg" />
                 </div>
             </section>
 

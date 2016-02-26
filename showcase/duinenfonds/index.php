@@ -40,19 +40,16 @@
         <div>
             <section class="section who">
                 <div class="mainContainer portfolio">
-                    <h1>Herenvest</h1>
-                    <h2>Design - HTML - CSS - UX/UI </h2>
+                    <h1>Duinenfonds</h1>
+                    <h2>UX and Developement </h2>
                     <p>
-                        In co-operation with Intervolvement i have designed and developed the website for this financial advisory company.
+                        Duinenfonds helps to create awareness about how we maintain our dunes and what needs to be done to achieve those needs.
                     </p>
                     <div class="linkContain">
-                        <a href="http://www.herenvest.nl" class="link">Herenvest website</a>
-                       
+                        <a href="http://www.duinenfonds.nl" class="link">Duinenfonds website</a>
                     </div>
-                    <img src="../../img/ctcue01.jpg" />
-                    <img src="../../img/ctcue02.jpg" />
-                    <img src="../../img/ctcue03.jpg" />
-                    <img src="../../img/ctcue04.jpg" />
+                    <img src="../../img/duinenfonds01.jpg" />
+                    <img src="../../img/duinenfonds02.jpg" />
                 </div>
             </section>
 

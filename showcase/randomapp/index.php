@@ -41,7 +41,7 @@
             <section class="section who">
                 <div class="mainContainer portfolio">
                     <h1>RandomApp</h1>
-                    <h2>Design - Teamwork - Concepting - UI</h2>
+                    <h2>Design - Concepting - UI</h2>
                     <p>
                         An application build with open data from the Dutch government. RandomApp is meant for tourists and will guide them to museums to be discovered.
                     </p>

@@ -142,7 +142,7 @@ p {
     margin-top: 1205px;
 }
 .who h2 {
-    color: #1abc9c;
+    color: #54c3d0;
     font-weight: 400;
 }
 .showcase {
@@ -154,7 +154,7 @@ p {
 }
 .familiar {
     background: #fff;
-    color: #505050;
+    color: #54c3d0;
 }
 .clients {
     background: #efefef;
@@ -162,11 +162,18 @@ p {
     color: #1abc9c;
 }
 .experience {
-    background: #1abc9c;
+    background: #54c3d0;
     color: #fff;
 }
 .contact {
-    background: 0 0/cover #29758c;
+     background: rgba(196,84,208,1);
+    background: -moz-linear-gradient(45deg, rgba(196,84,208,1) 0%, rgba(150,84,208,1) 28%, rgba(84,196,208,1) 73%, rgba(84,196,208,1) 100%);
+    background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(196,84,208,1)), color-stop(28%, rgba(150,84,208,1)), color-stop(73%, rgba(84,196,208,1)), color-stop(100%, rgba(84,196,208,1)));
+    background: -webkit-linear-gradient(45deg, rgba(196,84,208,1) 0%, rgba(150,84,208,1) 28%, rgba(84,196,208,1) 73%, rgba(84,196,208,1) 100%);
+    background: -o-linear-gradient(45deg, rgba(196,84,208,1) 0%, rgba(150,84,208,1) 28%, rgba(84,196,208,1) 73%, rgba(84,196,208,1) 100%);
+    background: -ms-linear-gradient(45deg, rgba(196,84,208,1) 0%, rgba(150,84,208,1) 28%, rgba(84,196,208,1) 73%, rgba(84,196,208,1) 100%);
+    background: linear-gradient(45deg, rgba(196,84,208,1) 0%, rgba(150,84,208,1) 28%, rgba(84,196,208,1) 73%, rgba(84,196,208,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c454d0', endColorstr='#54c4d0', GradientType=1 );
     color: #fff;
 }
 .row {
@@ -522,7 +529,7 @@ small {
 #ctc {
     width: 100%;
     float: left;
-    background: #0e465d;
+    background: #282828;
     color: #fff;
 }
 #dividerBlock {

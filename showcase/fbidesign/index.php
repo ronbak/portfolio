@@ -40,19 +40,18 @@
         <div>
             <section class="section who">
                 <div class="mainContainer portfolio">
-                    <h1>Krajicek.nl</h1>
-                    <h2>UX management - UX design advise - Development  </h2>
+                    <h1>FBI Design</h1>
+                    <h2>Design - Concept - Projectmanagement - UX - Development </h2>
                     <p>
-                        Together with <em>Made In Haarlem</em> and <em>FBI Design</em> we have managed, designed and developed the website for the Krajicek Foundation.
-
+                        I have created a new visual look for the new website of this web agency.
                     </p>
                     <div class="linkContain">
-                        <a href="http://www.krajicek.nl" class="link">Krajicek website</a>
+                        <a href="#" class="link">Soon Online</a>
                     </div>
-                    <img src="../../img/ctcue01.jpg" />
-                    <img src="../../img/ctcue02.jpg" />
-                    <img src="../../img/ctcue03.jpg" />
-                    <img src="../../img/ctcue04.jpg" />
+                    <img src="../../img/fbi01.jpg" />
+                    <img src="../../img/fbi02.jpg" />
+                    <img src="../../img/fbi03.jpg" />
+                    <img src="../../img/fbi04.jpg" />
                 </div>
             </section>
 

@@ -235,7 +235,7 @@
                 <div class="mainContainer">
                     <h2>Ambitious</h2>
                     <p>
-                        The past year I have been working on my entrepreneurial skills by following business bootcamps lead by ACE Venture Lab and MIT/Stanford.
+                    I have been working on my entrepreneurial skills by following business bootcamps lead by ACE Venture Lab and MIT/Stanford.
                     </p>
                 </div>
             </section>
@@ -264,6 +264,16 @@
                 </div>
             </section>
 
+            <section class="section experience">
+                <div class="mainContainer">
+                    <h2>Experience</h2>
+                    <p>
+                        I've worked for different clients and companies building my expertise and network to grow as a designer.
+                    </p>
+                    <a href="cv" class="link">Curriculum Vitae</a>
+
+                </div>
+            </section>
 
              <section class="section clients">
                 <div class="mainContainer">
@@ -299,15 +309,6 @@
                 </div>
             </section>
 
-            <section class="section experience">
-                <div class="mainContainer">
-                    <h2>Experience</h2>
-                    <p>
-                        I've worked for different clients and companies building my expertise and network to grow as a designer.
-                    </p>
-                    <a href="cv" class="link">Curriculum Vitae</a>
-
-                </div>
-            </section>
+            
 
 <?php include 'footer.php'; ?>

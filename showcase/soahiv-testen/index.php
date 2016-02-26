@@ -46,7 +46,7 @@
                         Developed and designed this website for the DESC medical company. This website provides information about STDs and gives users an option to make an appointment for testing.
                     </p>
                     <div class="linkContain">
-                        <a href="http://www.soahivtesten.nl" class="link">soahivtesten.nl</a>
+                        <a href="http://www.soahivtesten.nl" class="link">Website</a>
                     </div>
                     <img src="../../img/soahiv01.jpg" />
                     <img src="../../img/soahiv02.jpg" />
