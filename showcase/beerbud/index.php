@@ -43,7 +43,7 @@
                     <h1>BeerBud</h1>
                     <h2>Concept - Projectmanagement - UX - Entrepreneurial </h2>
                     <p>
-                        Currently creating this app with FBI design. It is an application that is going to suggest what beers are the best for your taste palette. Based on personal preference and addition information we run an algorithm that is going to give you the best beer suggestion. Our target audience is the 'special' kind of beer taster, so no Heineken but the local kinds.
+                        Currently creating this app with FBI design. It is an application that is going to suggest what beers are the best for your taste palette. Based on personal preference and additional information we run an algorithm that is going to give you the best beer suggestion. Our target audience is the 'special' kind of beer taster, so no Heineken but the local kinds.
                     </p>
                     <div class="linkContain">
 
