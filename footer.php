@@ -6,13 +6,12 @@
                         Whatever the cause, let's get in touch!
                         <h2>+31 6 555 20 21 1</h2>
                     </p>
-                    <div class="linkContain">
-                        <a href="mailto:joshua.nijman@gmail.com?SUBJECT=Website contact" class="link">E-mail</a>
-                        <div class="spacer"></div>
-                        <a href="https://www.linkedin.com/pub/joshua-nijman/57/566/b41" class="link">LinkedIn</a>
+                </div>
+                <div class="linkContain">
+                    <a href="mailto:joshua.nijman@gmail.com?SUBJECT=Website contact" class="link">E-mail</a>
+                    <div class="spacer"></div>
+                    <a href="https://www.linkedin.com/pub/joshua-nijman/57/566/b41" class="link">LinkedIn</a>
 
-                    </div>
-                    
                 </div>
 
             </section>

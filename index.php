@@ -52,7 +52,7 @@
                 <div class="mainContainer">
                     <h2>So... who is Josh?</h2>
                     <p>
-                        I am experienced in creating websites, apps and webapplications, i also have a degree in <em>Communication and Multimedia Design</em>.
+                        I am experienced in creating websites, apps and webapplications, i also have a degree in <em>Communication and Multimedia Design (BSc)</em>.
                         You can make me happy with a good cup of coffee and everything that involves technology and user interfaces.
                     </p>
                 </div>
@@ -141,9 +141,9 @@
                                 <h2>Koude Pizza Web App</h2>
                             </div>
                         </div>
-                        </a>
                     </div>
-
+                    </a>
+                </div> 
                     
                 <div class="row">
                     <a href="showcase/duinenfonds">
@@ -258,7 +258,7 @@
                         </div>
                         <div class="box">
                             <img src="img/code.png" />
-                            <h3>Front end Develoment</h3>
+                            <h3>Front end Development</h3>
                         </div>
                     </div>
                 </div>

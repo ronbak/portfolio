@@ -338,8 +338,9 @@ p {
     color: #54c3d0;
     text-transform: uppercase;
     font-family: 'Open Sans', sans-serif;
-    letter-spacing: -1.25px;
+    letter-spacing: 0.25px;
     margin-top: 20px;
+    font-weight: normal;
 }
 .clients .box {
     width: 25%;
@@ -511,10 +512,10 @@ small {
 }
 .linkContain {
     width: 100%;
-    height: 250px;
     display: block;
     margin: 0 auto;
     text-align: center;
+    padding-bottom: 100px;
 }
 .linkContain a.link {
     margin: 0;
@@ -623,7 +624,8 @@ a[href^=tel] {
 }
 .linkContain {
     height: auto;
-    margin-bottom: 30px;
+    margin-bottom: 0px;
+    padding-bottom: 100px;
 }
 .linkContain a.link {
     margin: 0 0 20px;
@@ -733,6 +735,7 @@ h2 {
 .section {
     padding: 50px 0 0;
 }
+
 .logo {
     width: 50%;
     height: auto;
@@ -771,7 +774,8 @@ a.link {
 }
 .linkContain {
     height: auto;
-    margin-bottom: 30px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
 }
 .linkContain a.link {
     margin: 0 0 20px;
