@@ -257,12 +257,12 @@ p {
 .box.twelve {
     background: url(../img/intervolvement.jpg) center/cover no-repeat;
 }
-.overlay {
+/*.overlay {
     transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     -webkit-transition: all .2s ease-in-out;
     
-}
+}*/
 .txt {
     display: none;
     color: #fff;
@@ -488,8 +488,8 @@ a.link {
     transition: all .1s linear;
 }
 .portfolio a.link {
-    border-color: #1abc9c;
-    color: #1abc9c;
+    border-color: #54c3d0;
+    color: #54c3d0;
     height: auto;
     padding-bottom: 18px;
     margin-bottom: 0;
@@ -726,6 +726,7 @@ h2 {
     width: 100%;
     min-height: 275px;
     background: 0 0/cover #1abc9c;
+    background: url(../img/header02.jpg) 50% 0/cover no-repeat fixed #1abc9c;
     padding-top: 35px;
     padding-bottom: 20px;
 }
@@ -776,7 +777,7 @@ a.link {
     margin: 0 0 20px;
 }
 .header-ebn {
-    background: #1abc9c;
+    background: url(../img/header02.jpg) 50% 0/cover no-repeat fixed #1abc9c;
     width: 100%;
     min-height: 50px;
     height: auto;

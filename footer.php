@@ -2,7 +2,7 @@
                 <div class="mainContainer">
                     <h2>Lets grab some coffee</h2>
                     <p>
-                        Interested to meet me?<br>It would be great if you could offer me an internship, but we can also have a friendly conversation.
+                        Interested to meet me?<br>It would be nice if we build someting great toghether, but we can also have a friendly conversation.
                         Whatever the cause, let's get in touch!
                         <h2>+31 6 555 20 21 1</h2>
                     </p>
