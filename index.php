@@ -52,8 +52,8 @@
                 <div class="mainContainer">
                     <h2>So... who is Josh?</h2>
                     <p>
-                        I am experienced in creating websites, apps and webapplications, i also have a degree in <em>Communication and Multimedia Design (BSc)</em>.
-                        You can make me happy with a good cup of coffee and everything that involves technology and user interfaces.
+                        I am experienced in creating websites, apps and webapplications, I also have a degree in <em>Communication and Multimedia Design (BSc)</em>.
+                        You make me happy with a good cup of coffee and everything that involves technology and user interfaces.
                     </p>
                 </div>
             </section>

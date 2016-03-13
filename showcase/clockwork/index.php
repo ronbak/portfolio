@@ -44,7 +44,7 @@
                     <h2>Concept - Projectmanagement - User research - UX Design - Prototyping - Information Architechture
                     </h2>
                     <p>
-                        I've researched the needs for a specific tourism audience. Based on research and insights from users i have created a concept for tourist who are visiting the Netherlands. The app helps the target audience to get more adventurous in a controlled matter. 
+                        I've researched the needs for a specific tourism audience. Based on research and insights from users I have created a concept for tourist who are visiting the Netherlands. The app helps the target audience to get more adventurous in a controlled matter. 
                     </p>
                     <div class="linkContain">
                         <a href="presentation.pdf" class="link">Presentation PDF</a>
