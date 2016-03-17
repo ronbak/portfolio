@@ -13,6 +13,7 @@
 
         <link rel="stylesheet" href="../../css/normalize.min.css">
         <link rel="stylesheet" href="../../css/main-dev.css">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic' rel='stylesheet' type='text/css'>
 
     </head>
     <body>
@@ -43,7 +44,7 @@
                     <h1>FBI Design</h1>
                     <h2>Design - Concept - Projectmanagement - UX - Development </h2>
                     <p>
-                        I have created a new visual look for the new website of this web agency.
+                        I have created a new visual look for the website of this web agency.
                     </p>
                     <div class="linkContain">
                         <a href="#" class="link">Soon Online</a>

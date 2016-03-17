@@ -13,6 +13,7 @@
 
         <link rel="stylesheet" href="../../css/normalize.min.css">
         <link rel="stylesheet" href="../../css/main-dev.css">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic' rel='stylesheet' type='text/css'>
 
     </head>
     <body>
@@ -44,7 +45,6 @@
                     <h2>Design - Corporate identity - HTML - CSS - Responsive</h2>
                     <p>
                         Created a corporate identity for a painting company based in Haarlem. This identitiy exists of a logo, bussiness cards and a responsive website.
-                        This identity is based on close contact with the client trying to figure out the main goal of the company.
                     </p>
                     <div class="linkContain">
                         <a href="http://chrispronk-schilder.nl" class="link">Website</a>

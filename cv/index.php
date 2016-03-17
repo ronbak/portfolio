@@ -13,6 +13,7 @@
 
         <link rel="stylesheet" href="../css/normalize.min.css">
         <link rel="stylesheet" href="../css/main-dev.css">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic' rel='stylesheet' type='text/css'>
 
     </head>
     <body class="cv">

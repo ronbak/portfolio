@@ -13,6 +13,7 @@
 
         <link rel="stylesheet" href="../../css/normalize.min.css">
         <link rel="stylesheet" href="../../css/main-dev.css">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic' rel='stylesheet' type='text/css'>
 
     </head>
     <body>
@@ -43,7 +44,7 @@
                     <h1>CTcue - Clinical Trial Recruitment</h1>
                     <h2>Concept - Projectmanagement - Corporate identity - HTML - CSS - UX/UI - Graduationproject </h2>
                     <p>
-                        Created a corporate identity for CTcue, a company that strives to improve patiënt recruitment for clinical trials.
+                        Created a corporate identity and recruitment platform for CTcue, a company that strives to improve patiënt recruitment for clinical trials.
                         I helped create a solution for including clinical trial data into a webplatform. This platform creates a search query to find the right patiënt for the right kind of trial. 
                     </p>
                     <div class="linkContain">

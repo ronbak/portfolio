@@ -13,6 +13,7 @@
 
         <link rel="stylesheet" href="../../css/normalize.min.css">
         <link rel="stylesheet" href="../../css/main-dev.css">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic' rel='stylesheet' type='text/css'>
 
     </head>
     <body>
@@ -44,7 +45,7 @@
                     <h2>Concept - Projectmanagement - User research - UX Design - Prototyping - Information Architechture
                     </h2>
                     <p>
-                        I've researched the needs for a specific tourism audience. Based on research and insights from users I have created a concept for tourist who are visiting the Netherlands. The app helps the target audience to get more adventurous in a controlled matter. 
+                        I've researched the needs for tourist who are visiting the big cities in Holland. Based on research and insights from users I have created a concept for tourist who wants to be a bit more adventurous during their stay. The app helps them achieve that goal in a controlled manner. 
                     </p>
                     <div class="linkContain">
                         <a href="presentation.pdf" class="link">Presentation PDF</a>
