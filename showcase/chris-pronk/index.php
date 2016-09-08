@@ -43,7 +43,7 @@
                     <h1>Chris Pronk Schildersbedrijf</h1>
                     <h2>Design - Corporate identity - HTML - CSS - Responsive</h2>
                     <p>
-                        Created a corporate identity for a painting company based in Haarlem. This identitiy exists of a logo, bussiness cards and a responsive website.
+                        Created a corporate identity for a painting company based in Haarlem. This identitiy exists of a logo, business cards and a responsive website.
                         This identity is based on close contact with the client trying to figure out the main goal of the company.
                     </p>
                     <div class="linkContain">
